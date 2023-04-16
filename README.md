@@ -5,5 +5,7 @@
 - 📫 How to reach me: Juliamariamariamaria2014@gmail.com
 
 <div>
-  <a href="https://github.com/juliamaria15">
-  <img height="180cm" src"https://github-readme-stats.vercel.app/api?username=ju15
+	<a href="https://github.com/juliamaria15">
+	<img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=julia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia&layout=compact&langs_count=16&theme=dracula"/>
+</div>
